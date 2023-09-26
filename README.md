@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe in JavaScript
+Tic-Tac-Toe Game in JavaScript
+Inspired by CodeBro Tutorial.
